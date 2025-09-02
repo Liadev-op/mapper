@@ -4,6 +4,6 @@
     { "letter": "w", "path": "\\\\SQLSRV\\datossrv$\\Waldbott", "username": "darg\\!U!", "password": "!P!" },
     { "letter": "y", "path": "\\\\SQLSRV\\datossrv$\\Alpha", "username": "darg\\!U!", "password": "!P!" },
     { "letter": "h", "path": "\\\\dargnas\\discoh", "username": "dargnas\\usuarios", "password": "s875wp11" },
-    { "letter": "i", "path": "\\\\dargnas\\it", "username": "dargnas\\usuarios", "password": "s875wp11" }
+    { "letter": "i", "path": "\\\\dargnas\\1- IT", "username": "dargnas\\usuarios", "password": "s875wp11" }
   ]
 }
