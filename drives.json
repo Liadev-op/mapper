@@ -1,9 +1,9 @@
 {
   "drives": [
-    { "letter": "G:", "path": "\\\\filesrv2\\shared$" },
-    { "letter": "W:", "path": "\\\\SQLSRV\\datossrv$\\Waldbott" },
-    { "letter": "Y:", "path": "\\\\SQLSRV\\datossrv$\\Alpha" },
-    { "letter": "H:", "path": "\\\\dargnas\\discoh", "username": "dargnas\\usuarios", "password": "s875wp11" },
-    { "letter": "I:", "path": "\\\\dargnas\\discoh\\1-IT", "username": "dargnas\\usuarios", "password": "s875wp11" }
+    { "letter": "G:", "path": "\\\\filesrv2\\shared$", "label": "Unidad G" },
+    { "letter": "W:", "path": "\\\\SQLSRV\\datossrv$\\Waldbott", "label": "Waldbott(W)" },
+    { "letter": "Y:", "path": "\\\\SQLSRV\\datossrv$\\Alpha", "label": "Aplha(Y)" },
+    { "letter": "H:", "path": "\\\\dargnas\\discoh", "username": "dargnas\\usuarios", "password": "s875wp11", "label": "Unidad H" },
+    { "letter": "I:", "path": "\\\\dargnas\\discoh\\1-IT", "username": "dargnas\\usuarios", "password": "s875wp11", "label": "IT" }
   ]
 }
