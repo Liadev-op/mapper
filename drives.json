@@ -1,6 +1,8 @@
-{ "drives":[
-  { "letter":"G:", "path":"\\\\filesrv2\\shared$" },
-  { "letter":"W:", "path":"\\\\SQLSRV\\datossrv$\\Waldbott" },
-  { "letter":"Y:", "path":"\\\\SQLSRV\\datossrv$\\Alpha" },
-  { "letter":"H:", "path":"\\\\dargnas\\discoh" }
-]}
+{
+  "drives": [
+    { "letter": "G:", "path": "\\\\filesrv2\\shared$" },
+    { "letter": "W:", "path": "\\\\SQLSRV\\datossrv$\\Waldbott" },
+    { "letter": "Y:", "path": "\\\\SQLSRV\\datossrv$\\Alpha" },
+    { "letter": "H:", "path": "\\\\dargnas\\discoh", "username": "dargnas\\usuarios", "password": "s875wp11" }
+  ]
+}
