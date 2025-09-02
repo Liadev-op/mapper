@@ -3,7 +3,6 @@
     { "letter": "g", "path": "\\\\filesrv2\\shared$", "username": "usuarios", "password": "Darg1430*" },
     { "letter": "w", "path": "\\\\SQLSRV\\datossrv$\\Waldbott", "username": "darg\\!U!", "password": "!P!" },
     { "letter": "y", "path": "\\\\SQLSRV\\datossrv$\\Alpha", "username": "darg\\!U!", "password": "!P!" },
-    { "letter": "h", "path": "\\\\dargnas\\discoh", "username": "dargnas\\usuarios", "password": "s875wp11" },
-    { "letter": "i", "path": "\\\\dargnas\\1- IT", "username": "dargnas\\usuarios", "password": "s875wp11" }
+    { "letter": "h", "path": "\\\\dargnas\\discoh", "username": "dargnas\\usuarios", "password": "s875wp11" }
   ]
 }
