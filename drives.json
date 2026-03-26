@@ -1,4 +1,15 @@
 {
+  "client": {
+    "version": "1.0.260401.1200", 
+    "url": "https://daikinaircondargsaerto-my.sharepoint.com/:u:/g/personal/iallegrini_daikin-argentina_com1/IQApTG82oAlrT7jW3chzbpiTAVjqje7s25Kng0VPs-20jMk?download=1"
+  },
+  "drives": [
+    { "letter": "G:", "path": "\\\\servidor\\compartido" }
+  ]
+}
+
+
+{
   "drives": [
     { "letter": "G:", "path": "\\\\filesrv2\\shared$", "label": "Disco G" },
     { "letter": "W:", "path": "\\\\SQLSRV\\datossrv$\\Waldbott", "label": "Waldbott" },
@@ -6,3 +17,6 @@
     { "letter": "H:", "path": "\\\\dargnas\\discoh", "username": "dargnas\\usuarios", "password": "s875wp11", "label": "Disco H" }
   ]
 }
+
+
+
